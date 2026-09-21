@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787618790 source:d:\programação e algoritmos\projetos\olamundo\main.c
+	<stdio.h>
+	<stdlib.h>
+
